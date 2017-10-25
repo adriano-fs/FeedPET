@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="872537137019641"
+    token="-3534621554792963220" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="868241257759253" >
+        <artifact
+            location="C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\outputs\apk\feedPET-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="872283216057798" >
+        <artifact
+            location="C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="872537137019641" >
+        <artifact
+            location="C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

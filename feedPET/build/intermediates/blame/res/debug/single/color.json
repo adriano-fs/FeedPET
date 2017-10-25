@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\cce\\Desktop\\FeedPET agosto 2016\\feedPET\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\cce\\Desktop\\FeedPET agosto 2016\\feedPET\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitalo\\Downloads\\FeedPET\\feedPET\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hitalo\\Downloads\\FeedPET\\feedPET\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cce\\Desktop\\FeedPET agosto 2016\\feedPET\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\cce\\Desktop\\FeedPET agosto 2016\\feedPET\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitalo\\Downloads\\FeedPET\\feedPET\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hitalo\\Downloads\\FeedPET\\feedPET\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    }
+]

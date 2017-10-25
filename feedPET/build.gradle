@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 10
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.feedpet"
+        minSdkVersion 9
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+   // compile project(':facebookSDK')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/android-rome-feed-reader-1.0.0.jar')
+    compile files('libs/jdom-1.0.jar')
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+}

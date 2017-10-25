@@ -1,0 +1,8 @@
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\MainActivity$override.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\MainActivity$2$override.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\MainActivity$1$override.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\MainActivity$3$override.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\Noticias$override.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\MainActivity$2$1$override.class
+CHANGED,C:\Users\Hitalo\Downloads\FeedPET\feedPET\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\feedpet\MainActivity$2$2$override.class
